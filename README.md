@@ -5,9 +5,10 @@
 #### En el siguiente Script se podrá calcular el interés compuesto generado por una inversión de manera mensual. Para ello hay que ingresar el monto inicial de la inversión, la cantidad de meses que se desea mantenerla activa y el TEA. Además, se puede agregar una suma fija para agregar a la inversión cada mes y también un monto fijo para un mes en particular. Todos los números se ingresan sin signos. 
 
 ### Para Ejecutar el script hay que correr el archivo ´main.py´
-Ejemplo de como quedaría todo:
+Ejemplo de como quedaría todo si se quiere calcular el interés compuesto para un monto inicial de $10.0000 en 12 meses con un TEA de 91%, agregando un monto fijo todos los meses de $1000, en el mes 5 $3000 y en el mes 10 $5000:
 
-```Ingresar el monto inicial (sin puntos ni comas): 10000
+```
+Ingresar el monto inicial (sin puntos ni comas): 10000
 Ingresar cantidad de meses a calcular: 12
 Ingresar el porcentaje ANUAL(sin el signo de %): 91
 Desea agregar un monto fijo TODOS los meses? (Responder solo con S / N)S
@@ -30,4 +31,5 @@ Para el mes 08 el interes es de:       $2,216.31.       El monto que queda a fin
 Para el mes 09 el interes es de:       $2,460.21.       El monto que queda a fin de este mes es:      $34,902.56
 Para el mes 10 el interes es de:       $3,101.78.       El monto que queda a fin de este mes es:      $44,004.34
 Para el mes 11 el interes es de:       $3,412.83.       El monto que queda a fin de este mes es:      $48,417.17
-Para el mes 12 el interes es de:       $3,747.47.       El monto que queda a fin de este mes es:      $53,164.64```
+Para el mes 12 el interes es de:       $3,747.47.       El monto que queda a fin de este mes es:      $53,164.64
+```
